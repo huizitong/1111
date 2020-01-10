@@ -7,6 +7,11 @@ good good
 how are you
 
 
+<<<<<<< HEAD
 
 
 分支操作不休息
+=======
+dev gognuzo
+
+
